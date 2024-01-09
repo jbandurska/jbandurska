@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">A CS student from Poland</h3>
 
-- 🔭 I’m currently working on **Mecardy**
+- 🔭 I’m currently working on **Application for couples** (no name for now)
 
-- 🌱 I’m currently learning **Angular and Jest**
+- 🌱 I’m currently learning **React Native**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
