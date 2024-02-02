@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">A CS student from Poland</h3>
 
-- 🔭 I’m currently working on **Application for couples** (no name yet)
+- 🔭 I’m currently working on **CoupleSync**
 
 - 🌱 I’m currently learning **Angular**
 
