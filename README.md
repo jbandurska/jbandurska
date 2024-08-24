@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julia</h1>
 <h3 align="center">A Junior Software Developer from Poland</h3>
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **C# & ASP.NET**
 
 - 👨‍💻 All of my projects are available at [https://jbandurska.github.io/portfolio/](https://jbandurska.github.io/portfolio/)
 
